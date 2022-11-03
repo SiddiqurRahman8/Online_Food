@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375587520296",
+    "firebase_url": "https://onlinefoods-91f09.firebaseio.com",
+    "project_id": "onlinefoods-91f09",
+    "storage_bucket": "onlinefoods-91f09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375587520296:android:add15d7b42efcf5ac09a1d",
+        "android_client_info": {
+          "package_name": "com.siddik.onlinefoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375587520296-7qhn421pts7go6vts992ubgtpnblujfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.siddik.onlinefoods",
+            "certificate_hash": "e7054768335732d2878334366ed9d4a381741570"
+          }
+        },
+        {
+          "client_id": "375587520296-nvsvkng670igmf8a1um8ugf8chufmiao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhByEwP0AvlfuOukSD7_ySqbMqKR0I0BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375587520296-nvsvkng670igmf8a1um8ugf8chufmiao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
