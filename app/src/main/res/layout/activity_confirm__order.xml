@@ -81,7 +81,7 @@
             android:layout_height="60dp"
             android:text="Confirm Order"
             android:textSize="22sp"
-            android:backgroundTint="@color/colorPrimary"
+            android:backgroundTint="#D3ED8B6C"
             android:textColor="#ffffff"
             android:onClick="btnUpdateRecipe"
             />
